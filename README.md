@@ -2,7 +2,7 @@
 Daily learning -  ML topics
 
 
-* [Day 001](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_001.md)
+* [Day 001 - BRML Chapter 1 Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_001.md)
 * [Day 002](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_002.md)
 * [Day 003](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_003.md)
 * [Day 004](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_004.md)
@@ -59,7 +59,7 @@ Daily learning -  ML topics
 * [Day 055](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_055.md)
 * [Day 056](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_056.md)
 * [Day 057](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_057.md)
-* [Day 058](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_058.md)
+* [Day 058 - Managing SQL queries as blocks over a base with jinja2](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_058.md)
 * [Day 059 - The Engineering Problem of A/B Testing](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_059.md)
 * [Day 060 - Complex Network Analysis in Python](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_060.md)
 * [Day 061 - Transformer neural networks](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_061.md)
@@ -287,8 +287,8 @@ Daily learning -  ML topics
 * [Day 283 - Matplotlib Tricks and Tips](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_283.md)
 * [Day 284 - Seaborn Plots - KDE, Hist, ECDF](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_284.md)
 * [Day 285 - Seaborn Plots - Box, Violin, Swarm](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_285.md)
-* [Day 286 - eaborn Plots - Strip, Scatter, Line, Reg](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_286.md)
-* [Day 287](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_287.md)
+* [Day 286 - Seaborn Plots - Strip, Scatter, Line, Reg](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_286.md)
+* [Day 287 - Seaborn Plots - Heatmaps](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_287.md)
 * [Day 288](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_288.md)
 * [Day 289](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_289.md)
 * [Day 290](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_290.md)
