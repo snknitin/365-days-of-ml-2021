@@ -55,7 +55,7 @@ Daily learning -  ML topics
 * [Day 051](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_051.md)
 * [Day 052](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_052.md)
 * [Day 053](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_053.md)
-* [Day 054](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_054.md)
+* [Day 054 - Autodata: Automating common data operations](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_054.md)
 * [Day 055](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_055.md)
 * [Day 056](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_056.md)
 * [Day 057](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_057.md)
