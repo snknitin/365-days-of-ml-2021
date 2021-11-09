@@ -126,7 +126,7 @@ Daily learning -  ML topics
 * [Day 122 - Numpy - Tips and Tricks](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_122.md)
 * [Day 123 - Optuna - Hyper parameter tuning](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_123.md)
 * [Day 124 - Sklearn - Tips and Tricks](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_124.md)
-* [Day 125 - ](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_125.md)
+* [Day 125 - Python Libraries to know](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_125.md)
 * [Day 126 - ](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_126.md)
 * [Day 127](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_127.md)
 * [Day 128](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_128.md)
