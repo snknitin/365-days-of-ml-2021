@@ -293,7 +293,7 @@ Daily learning -  ML topics
 * [Day 289 - Jupyter notebooks - Tips and shortcuts ](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_289.md)
 * [Day 290 - Working with Pytorch-geometric to build GNNs ](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_290.md)
 * [Day 291 - PyTorch - things to know](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_291.md)
-* [Day 292](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_292.md)
+* [Day 292 - Gradients is not all you need](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_292.md)
 * [Day 293](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_293.md)
 * [Day 294](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_294.md)
 * [Day 295](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_295.md)
