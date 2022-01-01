@@ -16,7 +16,7 @@ Daily learning -  ML topics
 * [Day 012](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_012.md)
 * [Day 013](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_013.md)
 * [Day 014](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_014.md)
-* [Day 015](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_015.md)
+* [Day 015 - NLP Data processing tips](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_015.md)
 * [Day 016](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_016.md)
 * [Day 017 - Intuition on the Neural Tangent Kernel](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_017.md)
 * [Day 018 - When BERT Plays The Lottery, All Tickets Are Winning](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_018.md)
