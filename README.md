@@ -37,7 +37,7 @@ Daily learning -  ML topics
 * [Day 033 - Tuning ML algorithms and why it is hard](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_033.md)
 * [Day 034 - Causal design patterns](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_034.md)
 * [Day 035](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_035.md)
-* [Day 036](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_036.md)
+* [Day 036 - Automate scripts -  Python](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_036.md)
 * [Day 037](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_037.md)
 * [Day 038](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_038.md)
 * [Day 039](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_039.md)
