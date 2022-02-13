@@ -10,7 +10,7 @@ Daily learning -  ML topics
 * [Day 006](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_006.md)
 * [Day 007 - Data Skeptic Podcast MINI Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_007.md)
 * [Day 008 - SQL tips and tricks](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_008.md)
-* [Day 009](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_009.md)
+* [Day 009 - Natural Labels and Feedback Loop](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_009.md)
 * [Day 010](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_010.md)
 * [Day 011](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_011.md)
 * [Day 012](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_012.md)
