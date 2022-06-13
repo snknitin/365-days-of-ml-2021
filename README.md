@@ -76,7 +76,7 @@ Daily learning -  ML topics
 * [Day 072](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_072.md)
 * [Day 073](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_073.md)
 * [Day 074](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_074.md)
-* [Day 075](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_075.md)
+* [Day 075 - Collection of the DailyML Posts on Reddit](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_075.md)
 * [Day 076](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_076.md)
 * [Day 077](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_077.md)
 * [Day 078](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_078.md)
