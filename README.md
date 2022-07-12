@@ -3,7 +3,7 @@ Daily learning -  ML topics
 
 
 * [Day 001 - BRML Chapter 1 Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_001.md)
-* [Day 002](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_002.md)
+* [Day 002 - Python Class construction tips](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_002.md)
 * [Day 003](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_003.md)
 * [Day 004](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_004.md)
 * [Day 005](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_005.md)
