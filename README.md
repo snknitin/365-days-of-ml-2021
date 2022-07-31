@@ -5,7 +5,7 @@ Daily learning -  ML topics
 * [Day 001 - BRML Chapter 1 Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_001.md)
 * [Day 002 - Python Class construction tips](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_002.md)
 * [Day 003 - Statistics Fundamentals](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_003.md)
-* [Day 004](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_004.md)
+* [Day 004 - SkLearn Metrics](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_004.md)
 * [Day 005](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_005.md)
 * [Day 006](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_006.md)
 * [Day 007 - Data Skeptic Podcast MINI Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_007.md)
