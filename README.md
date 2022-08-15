@@ -22,7 +22,7 @@ Daily learning -  ML topics
 * [Day 018 - When BERT Plays The Lottery, All Tickets Are Winning](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_018.md)
 * [Day 019](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_019.md)
 * [Day 020 - Pytorch - How much do you really know](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_020.md)
-* [Day 021](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_021.md)
+* [Day 021 - Better Activation functions than Leaky RELU](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_021.md)
 * [Day 022](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_022.md)
 * [Day 023](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_023.md)
 * [Day 024](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_024.md)
