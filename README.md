@@ -7,7 +7,7 @@ Daily learning -  ML topics
 * [Day 003 - Statistics Fundamentals](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_003.md)
 * [Day 004 - SkLearn Metrics](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_004.md)
 * [Day 005 - Best Practices](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_005.md)
-* [Day 006](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_006.md)
+* [Day 006 - Convolutional Arithmetic](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_006.md)
 * [Day 007 - Data Skeptic Podcast MINI Notes](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_007.md)
 * [Day 008 - SQL tips and tricks](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_008.md)
 * [Day 009 - Natural Labels and Feedback Loop](https://github.com/snknitin/365-days-of-ml-2021/blob/main/Daily_Files/Day_009.md)
